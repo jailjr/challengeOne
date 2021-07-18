@@ -15,7 +15,7 @@ Entregáveis:
 
 -Dados no localstorage
 
-1.Qual linguagem devo usar?
+1. Qual linguagem devo usar?
 Deve ser utilizado as linguagem de front end para criação de site - HTML e CSS
 2. O que é landing page?
 É uma página web única para cadastro de leads e promover informações pontuais de algum produto
